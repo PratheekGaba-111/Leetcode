@@ -9,7 +9,7 @@ class Solution {
                 if(matrix[i][j] == '1'){
                     ar[j]++;
                 }else{
-                    ar[i] = 0;
+                    ar[j] = 0;
                 }
             }
             area = Math.max(area, calcArea(ar));
