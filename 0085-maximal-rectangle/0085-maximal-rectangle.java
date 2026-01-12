@@ -20,21 +20,21 @@ class Solution {
         int n = ar.length;
         int[] nsr = new int[n];
         int[] psl = new int[n];
-        Stack<Integer> stk = new Stack<>();
-        for(int i = 0; i < n; i++){
-            while(!stk.isEmpty() && ar[stk.peek()] >= ar[i]){
-                stk.pop();
+        psl[0] = -1;
+        nsr[n - 1] = n;
+        for(int i = 1; i < n; i++){
+            int prev = i - 1;
+            while(prev >= 0 && ar[prev] >= ar[i]){
+                prev = psl[prev];
             }
-            psl[i] = stk.isEmpty() ? -1 : stk.peek();
-            stk.push(i);
+            psl[i] = prev;
         }
-        stk.clear();
-        for(int i = n - 1; i >= 0; i--){
-            while(!stk.isEmpty() && ar[stk.peek()] >= ar[i]){
-                stk.pop();
+        for(int i = n - 2; i >= 0; i--){
+            int prev = i + 1;
+            while(prev < n && ar[prev] >= ar[i]){
+                prev = nsr[prev];
             }
-            nsr[i] = stk.isEmpty() ? n : stk.peek();
-            stk.push(i);
+            nsr[i] = prev;
         }
         int maxArea = 0;
         for(int i = 0; i < n; i++){
