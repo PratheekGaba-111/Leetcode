@@ -6,6 +6,7 @@ A collection of all my Leetcode solutions :)
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PratheekGaba-111/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/PratheekGaba-111/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PratheekGaba-111/Leetcode/tree/master/0055-jump-game) |
@@ -25,6 +26,7 @@ A collection of all my Leetcode solutions :)
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PratheekGaba-111/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PratheekGaba-111/Leetcode/tree/master/0020-valid-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratheekGaba-111/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3799-word-squares-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/3799-word-squares-ii) |
@@ -77,4 +79,8 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PratheekGaba-111/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
