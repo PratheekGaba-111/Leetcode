@@ -10,6 +10,7 @@ A collection of all my Leetcode solutions :)
 | [0039-combination-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/PratheekGaba-111/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PratheekGaba-111/Leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/PratheekGaba-111/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3799-word-squares-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/3799-word-squares-ii) |
@@ -49,6 +50,7 @@ A collection of all my Leetcode solutions :)
 | [0053-maximum-subarray](https://github.com/PratheekGaba-111/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PratheekGaba-111/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/PratheekGaba-111/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
@@ -76,6 +78,7 @@ A collection of all my Leetcode solutions :)
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
