@@ -48,6 +48,7 @@ A collection of all my Leetcode solutions :)
 | ------- |
 | [0053-maximum-subarray](https://github.com/PratheekGaba-111/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PratheekGaba-111/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/PratheekGaba-111/Leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
@@ -62,6 +63,7 @@ A collection of all my Leetcode solutions :)
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PratheekGaba-111/Leetcode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/PratheekGaba-111/Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -83,4 +85,8 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PratheekGaba-111/Leetcode/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PratheekGaba-111/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
