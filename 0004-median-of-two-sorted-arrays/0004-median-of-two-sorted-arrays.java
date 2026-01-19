@@ -1,14 +1,6 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int m = nums1.length, n = nums2.length;
-        // if(m == 0){
-        //     if(n % 2 == 0) return (nums2[n/2] + nums2[(n/2) + 1])/2;
-        //     else return nums2[n/2];
-        // }
-        // if(n == 0){
-        //     if(m % 2 == 0) return (nums1[m/2] + nums1[(m/2) + 1])/2;
-        //     else return nums1[m/2];
-        // }
         int len = m + n;
         int pos_req = (len % 2 == 0)? 2 : 1;
         double m1 = 0, m2 = 0;
