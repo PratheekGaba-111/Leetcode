@@ -14,6 +14,7 @@ A collection of all my Leetcode solutions :)
 | [0063-unique-paths-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/PratheekGaba-111/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PratheekGaba-111/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3799-word-squares-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/3799-word-squares-ii) |
@@ -25,6 +26,7 @@ A collection of all my Leetcode solutions :)
 ## Sorting
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/PratheekGaba-111/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3799-word-squares-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/3799-word-squares-ii) |
 ## String
@@ -103,4 +105,8 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
