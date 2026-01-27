@@ -14,6 +14,7 @@ A collection of all my Leetcode solutions :)
 | [0063-unique-paths-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/PratheekGaba-111/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/PratheekGaba-111/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PratheekGaba-111/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -22,6 +23,7 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/PratheekGaba-111/Leetcode/tree/master/0055-jump-game) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/PratheekGaba-111/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/PratheekGaba-111/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
@@ -59,6 +61,7 @@ A collection of all my Leetcode solutions :)
 | [0063-unique-paths-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/PratheekGaba-111/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Stack
 |  |
 | ------- |
