@@ -4,7 +4,6 @@ class Solution {
         if(nums.length == 1) return nums[0];
         if(nums[0] != nums[1]) return nums[0];
         if(nums[r] != nums[r + 1]) return nums[r + 1];
-        int ans = -1;
         while(l <= r){
             int mid = l + (r - l)/2;
             if(nums[mid] == nums[mid + 1]){
@@ -16,10 +15,9 @@ class Solution {
                 else l = mid + 1;
             }
             else{
-                ans = nums[mid];
-                break;
+                return nums[mid];
             }
         }
-        return ans;
+        return -1;
     }
 }
