@@ -9,6 +9,7 @@ A collection of all my Leetcode solutions :)
 | [0004-median-of-two-sorted-arrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/PratheekGaba-111/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/PratheekGaba-111/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PratheekGaba-111/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -43,6 +44,7 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0040-combination-sum-ii) |
 | [3799-word-squares-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/3799-word-squares-ii) |
 ## Enumeration
 |  |
