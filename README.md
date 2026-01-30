@@ -64,6 +64,7 @@ A collection of all my Leetcode solutions :)
 | [0063-unique-paths-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0338-counting-bits](https://github.com/PratheekGaba-111/Leetcode/tree/master/0338-counting-bits) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/PratheekGaba-111/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Stack
 |  |
@@ -84,6 +85,7 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PratheekGaba-111/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/PratheekGaba-111/Leetcode/tree/master/0338-counting-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PratheekGaba-111/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Recursion
 |  |
