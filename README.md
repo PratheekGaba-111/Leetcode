@@ -129,4 +129,16 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/PratheekGaba-111/Leetcode/tree/master/0202-happy-number) |
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PratheekGaba-111/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PratheekGaba-111/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PratheekGaba-111/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
