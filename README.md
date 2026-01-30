@@ -15,6 +15,7 @@ A collection of all my Leetcode solutions :)
 | [0063-unique-paths-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0137-single-number-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0137-single-number-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PratheekGaba-111/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/PratheekGaba-111/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -84,6 +85,7 @@ A collection of all my Leetcode solutions :)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/PratheekGaba-111/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/PratheekGaba-111/Leetcode/tree/master/0338-counting-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PratheekGaba-111/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
