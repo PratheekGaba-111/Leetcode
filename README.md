@@ -81,6 +81,7 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PratheekGaba-111/Leetcode/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/PratheekGaba-111/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PratheekGaba-111/Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -120,4 +121,12 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/PratheekGaba-111/Leetcode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/PratheekGaba-111/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
