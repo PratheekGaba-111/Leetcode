@@ -17,6 +17,7 @@ A collection of all my Leetcode solutions :)
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0137-single-number-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0137-single-number-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PratheekGaba-111/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/PratheekGaba-111/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/PratheekGaba-111/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/PratheekGaba-111/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -120,10 +121,12 @@ A collection of all my Leetcode solutions :)
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PratheekGaba-111/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/PratheekGaba-111/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/PratheekGaba-111/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
@@ -146,4 +149,8 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PratheekGaba-111/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/PratheekGaba-111/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
