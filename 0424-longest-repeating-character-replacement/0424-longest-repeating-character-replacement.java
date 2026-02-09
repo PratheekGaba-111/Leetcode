@@ -14,30 +14,16 @@ class Solution {
         int n = s.length();
         int l = 0, r = 0, len = 0;
         int[] freq = new int[26];
+        int maxFreq = 0;
         while(r < n){
             // expand
-            while(r < n){
-                // inc
-                freq[s.charAt(r) - 'A']++;
-                if(check(freq, k)){
-                    len = Math.max(len, r - l + 1);
-                    r++;
-                }
-                else{
-                    r++;
-                    break;
-                }
+            freq[s.charAt(r) - 'A']++;
+            maxFreq = Math.max(maxFreq, freq[s.charAt(r) - 'A']);
+            while((r - l + 1) - maxFreq > k){
+                freq[s.charAt(l++) - 'A']--;
             }
-            if(r == n) break;
-            while(l < r){
-                if(!check(freq, k)){
-                    freq[s.charAt(l) - 'A']--;
-                    l++;
-                }
-                else{
-                    break;
-                }
-            }
+            len = Math.max(len, r - l + 1);
+            r++;
         }
         return len;
     }
