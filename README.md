@@ -37,6 +37,7 @@ A collection of all my Leetcode solutions :)
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/PratheekGaba-111/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PratheekGaba-111/Leetcode/tree/master/0020-valid-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratheekGaba-111/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -122,10 +123,12 @@ A collection of all my Leetcode solutions :)
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/PratheekGaba-111/Leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
