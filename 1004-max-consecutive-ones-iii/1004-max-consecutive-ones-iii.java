@@ -4,7 +4,7 @@ class Solution {
         int n = nums.length;
         int ctr = 0;
         int l = 0, r = 0;
-        while(l < n && r < n){
+        while(r < n){
             //expand
             while(r < n && ctr <= k){
                 if(nums[r] == 0) ctr++;
