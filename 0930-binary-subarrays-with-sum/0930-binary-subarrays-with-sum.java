@@ -7,7 +7,7 @@ class Solution {
         if(goal < 0) return 0; // since goal can be 0 too so goal - 1 is 0
         while(r < n){
             sum += nums[r];
-            while(l < n && sum > goal){ // to remove all sum > goal subarray
+            while(l <= r && sum > goal){ // to remove all sum > goal subarray
                 sum -= nums[l];
                 l++;
             }
