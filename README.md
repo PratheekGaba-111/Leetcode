@@ -41,6 +41,7 @@ A collection of all my Leetcode solutions :)
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/PratheekGaba-111/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PratheekGaba-111/Leetcode/tree/master/0020-valid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratheekGaba-111/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3799-word-squares-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/3799-word-squares-ii) |
 ## Backtracking
@@ -126,6 +127,7 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratheekGaba-111/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
@@ -133,6 +135,7 @@ A collection of all my Leetcode solutions :)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/PratheekGaba-111/Leetcode/tree/master/0202-happy-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
