@@ -45,6 +45,7 @@ A collection of all my Leetcode solutions :)
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/PratheekGaba-111/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PratheekGaba-111/Leetcode/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/PratheekGaba-111/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratheekGaba-111/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -133,6 +134,7 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/PratheekGaba-111/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PratheekGaba-111/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -145,6 +147,7 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/PratheekGaba-111/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/PratheekGaba-111/Leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
