@@ -19,6 +19,7 @@ A collection of all my Leetcode solutions :)
 | [0540-single-element-in-a-sorted-array](https://github.com/PratheekGaba-111/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratheekGaba-111/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/PratheekGaba-111/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/PratheekGaba-111/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -89,6 +90,7 @@ A collection of all my Leetcode solutions :)
 | [0202-happy-number](https://github.com/PratheekGaba-111/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PratheekGaba-111/Leetcode/tree/master/0231-power-of-two) |
 | [0788-rotated-digits](https://github.com/PratheekGaba-111/Leetcode/tree/master/0788-rotated-digits) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of all my Leetcode solutions :)
 | [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratheekGaba-111/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
@@ -139,6 +142,7 @@ A collection of all my Leetcode solutions :)
 | [0202-happy-number](https://github.com/PratheekGaba-111/Leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,4 +164,5 @@ A collection of all my Leetcode solutions :)
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratheekGaba-111/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
