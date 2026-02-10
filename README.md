@@ -44,6 +44,7 @@ A collection of all my Leetcode solutions :)
 | [0014-longest-common-prefix](https://github.com/PratheekGaba-111/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PratheekGaba-111/Leetcode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratheekGaba-111/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3799-word-squares-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/3799-word-squares-ii) |
 ## Backtracking
@@ -134,6 +135,7 @@ A collection of all my Leetcode solutions :)
 | [0930-binary-subarrays-with-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratheekGaba-111/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PratheekGaba-111/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
@@ -143,6 +145,7 @@ A collection of all my Leetcode solutions :)
 | [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
