@@ -18,6 +18,7 @@ A collection of all my Leetcode solutions :)
 | [0137-single-number-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0137-single-number-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PratheekGaba-111/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/PratheekGaba-111/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratheekGaba-111/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/PratheekGaba-111/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -134,6 +135,7 @@ A collection of all my Leetcode solutions :)
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/PratheekGaba-111/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratheekGaba-111/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -146,6 +148,7 @@ A collection of all my Leetcode solutions :)
 | [0202-happy-number](https://github.com/PratheekGaba-111/Leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/PratheekGaba-111/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
@@ -171,4 +174,8 @@ A collection of all my Leetcode solutions :)
 | [1004-max-consecutive-ones-iii](https://github.com/PratheekGaba-111/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PratheekGaba-111/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/PratheekGaba-111/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
