@@ -52,6 +52,7 @@ A collection of all my Leetcode solutions :)
 | [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratheekGaba-111/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3713-longest-balanced-substring-i](https://github.com/PratheekGaba-111/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3799-word-squares-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/3799-word-squares-ii) |
 ## Backtracking
 |  |
@@ -62,6 +63,7 @@ A collection of all my Leetcode solutions :)
 ## Enumeration
 |  |
 | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/PratheekGaba-111/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3799-word-squares-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/3799-word-squares-ii) |
 ## Divide and Conquer
 |  |
@@ -157,6 +159,7 @@ A collection of all my Leetcode solutions :)
 | [0992-subarrays-with-k-different-integers](https://github.com/PratheekGaba-111/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3713-longest-balanced-substring-i](https://github.com/PratheekGaba-111/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,4 +188,5 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/PratheekGaba-111/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [3713-longest-balanced-substring-i](https://github.com/PratheekGaba-111/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
