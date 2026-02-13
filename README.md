@@ -16,6 +16,7 @@ A collection of all my Leetcode solutions :)
 | [0064-minimum-path-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0137-single-number-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0137-single-number-ii) |
+| [0307-range-sum-query-mutable](https://github.com/PratheekGaba-111/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0455-assign-cookies](https://github.com/PratheekGaba-111/Leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PratheekGaba-111/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -70,6 +71,7 @@ A collection of all my Leetcode solutions :)
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PratheekGaba-111/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/PratheekGaba-111/Leetcode/tree/master/0053-maximum-subarray) |
+| [0307-range-sum-query-mutable](https://github.com/PratheekGaba-111/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -189,4 +191,16 @@ A collection of all my Leetcode solutions :)
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/PratheekGaba-111/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/PratheekGaba-111/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/PratheekGaba-111/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/PratheekGaba-111/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/PratheekGaba-111/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
