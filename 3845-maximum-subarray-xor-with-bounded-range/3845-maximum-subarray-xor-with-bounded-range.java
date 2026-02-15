@@ -1,46 +1,43 @@
 class Solution {
-    public void insert(int[] trie, int val){
-        int x = 1;
+    public void insert(int[] trie, int x){
+        int curr = 1;
         for(int i = 14; i >= 0; i--){
-            // insert it
-            int bit = (val >> i) & 1;
-            if(bit == 1) x = 2 * x + 1;
-            else x = 2 * x;
-            trie[x]++;
+            if(((x >> i) & 1) == 1) curr = 2 * curr + 1;
+            else curr = curr * 2;
+            trie[curr]++;
         }
     }
-    public void delete(int[] trie, int val){
-        int x = 1;
+    public void delete(int[] trie, int x){
+        int curr = 1;
         for(int i = 14; i >= 0; i--){
-            // insert it
-            int bit = (val >> i) & 1;
-            if(bit == 1) x = 2 * x + 1;
-            else x = 2 * x;
-            trie[x]--;
+            if(((x >> i) & 1) == 1) curr = 2 * curr + 1;
+            else curr = curr * 2;
+            trie[curr]--;
         }
     }
-    public int search(int[] trie, int val){
-        int x = 1, ans = 0;
+    public int search(int[] trie, int x){
+        int ans = 0, curr = 1;
         for(int i = 14; i >= 0; i--){
-            int bit = (val >> i) & 1;
-            int rbit = bit ^ 1;
-            if(rbit == 0){
-                // we can use that
-                if(trie[2 * x] > 0){
-                x = x * 2; // we can use that
-                ans |= (1 << i);
+            if(((x >> i) & 1) == 1){
+                // check for 0 child
+                if(trie[2 * curr] > 0){
+                    // we can use this child
+                    ans |= (1 << i);
+                    curr = 2 * curr;
                 }
                 else{
-                    x = x * 2 + 1;
+                    curr = 2 * curr + 1;
                 }
             }
             else{
-                if(trie[2 * x + 1] > 0){
-                    x = x * 2 + 1;
+                // check for 1 child
+                if(trie[2 * curr + 1] > 0){
+                    // we can use this child
                     ans |= (1 << i);
+                    curr = 2 * curr + 1;
                 }
                 else{
-                    x = x * 2;
+                    curr = 2 * curr;
                 }
             }
         }
@@ -61,12 +58,11 @@ class Solution {
         for(int i = 0; i < n; i++){
             pref[i + 1] = nums[i] ^ pref[i];
         }
-        int l = 0, value = 0;
+        int l = 0;
         insert(trie, pref[0]);
         for(int i = 0; i < n; i++){
             insert(trie, pref[i + 1]); // i + 1 is basically pref xor till i 
             // shrink
-            value = Math.max(value, nums[i]);
             // before shrinking add the maxD and minD
             while(!minD.isEmpty() && nums[minD.peekLast()] >= nums[i]) minD.pollLast();
             minD.addLast(i);
@@ -85,7 +81,6 @@ class Solution {
             ans = Math.max(ans, search(trie, pref[i + 1]));// iska maximum xor is required
 
         }
-        if(n == 1 || k == 0) return value;
         return ans;
     }
 }
