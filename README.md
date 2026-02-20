@@ -10,6 +10,7 @@ A collection of all my Leetcode solutions :)
 | [0014-longest-common-prefix](https://github.com/PratheekGaba-111/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/PratheekGaba-111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PratheekGaba-111/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PratheekGaba-111/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -76,6 +77,7 @@ A collection of all my Leetcode solutions :)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PratheekGaba-111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PratheekGaba-111/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PratheekGaba-111/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/PratheekGaba-111/Leetcode/tree/master/0062-unique-paths) |
@@ -89,6 +91,7 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PratheekGaba-111/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/PratheekGaba-111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PratheekGaba-111/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -123,6 +126,7 @@ A collection of all my Leetcode solutions :)
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PratheekGaba-111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Trie
 |  |
@@ -166,6 +170,7 @@ A collection of all my Leetcode solutions :)
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PratheekGaba-111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/PratheekGaba-111/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/PratheekGaba-111/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/PratheekGaba-111/Leetcode/tree/master/0455-assign-cookies) |
