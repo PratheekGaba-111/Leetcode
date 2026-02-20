@@ -11,7 +11,6 @@ class Solution {
                     j++;
                     moved = true;
                 }
-                // System.out.println(moved + " " + j);
                 if(moved && j < n){
                     nums[i] = nums[i] ^ nums[j];
                     nums[j] = nums[i] ^ nums[j];
