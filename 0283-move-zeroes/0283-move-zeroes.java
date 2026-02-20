@@ -15,7 +15,7 @@ class Solution {
                     nums[i] = nums[i] ^ nums[j];
                 }
             }
-            // if(j >= n) break;
+            if(j >= n) break;
         }
     }
     /*
