@@ -16,6 +16,7 @@ A collection of all my Leetcode solutions :)
 | [0064-minimum-path-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0137-single-number-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0137-single-number-ii) |
+| [0283-move-zeroes](https://github.com/PratheekGaba-111/Leetcode/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/PratheekGaba-111/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0455-assign-cookies](https://github.com/PratheekGaba-111/Leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PratheekGaba-111/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -166,6 +167,7 @@ A collection of all my Leetcode solutions :)
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/PratheekGaba-111/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/PratheekGaba-111/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/PratheekGaba-111/Leetcode/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
