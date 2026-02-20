@@ -6,12 +6,10 @@ class Solution {
             j = Math.max(i, j);
             if(nums[i] == 0){
                 // j++;
-                boolean moved = false;
                 while(j < n && nums[j] == 0){
                     j++;
-                    moved = true;
                 }
-                if(moved && j < n){
+                if(j < n){
                     nums[i] = nums[i] ^ nums[j];
                     nums[j] = nums[i] ^ nums[j];
                     nums[i] = nums[i] ^ nums[j];
