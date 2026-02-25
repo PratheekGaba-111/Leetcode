@@ -51,6 +51,7 @@ A collection of all my Leetcode solutions :)
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/PratheekGaba-111/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PratheekGaba-111/Leetcode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/PratheekGaba-111/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/PratheekGaba-111/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/PratheekGaba-111/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PratheekGaba-111/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -83,6 +84,7 @@ A collection of all my Leetcode solutions :)
 | [0062-unique-paths](https://github.com/PratheekGaba-111/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/PratheekGaba-111/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PratheekGaba-111/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/PratheekGaba-111/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/PratheekGaba-111/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/PratheekGaba-111/Leetcode/tree/master/0338-counting-bits) |
 | [0788-rotated-digits](https://github.com/PratheekGaba-111/Leetcode/tree/master/0788-rotated-digits) |
